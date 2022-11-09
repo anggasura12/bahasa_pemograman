@@ -1,0 +1,1 @@
+print ("saya belajar Bahasa pemograman menggunakan python")
